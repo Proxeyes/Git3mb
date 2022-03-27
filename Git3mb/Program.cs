@@ -22,3 +22,7 @@ if (c == 1)
 {
     Console.WriteLine(a * b);
 }
+﻿else if (c == 4)
+{
+    Console.WriteLine(a / b);
+}

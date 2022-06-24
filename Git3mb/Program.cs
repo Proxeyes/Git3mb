@@ -14,15 +14,16 @@ c = Convert.ToInt32(Console.ReadLine());
 if (c == 1)
 {
     Console.WriteLine(a + b);
-﻿else if (c == 2)
+}
+else if (c == 2)
 {
     Console.WriteLine(a - b);
 }
-﻿else if (c == 3)
+else if (c == 3)
 {
     Console.WriteLine(a * b);
 }
-﻿else if (c == 4)
+else if (c == 4)
 {
     Console.WriteLine(a / b);
 }
